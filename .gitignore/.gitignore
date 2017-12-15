@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comagainafree21_651832_187ea1a8-b813-518d-9033-6df18ed39e6c.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.again.free001</string>
+				<key>bundle-version</key>
+				<string>6.5.8.32</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>老王唯一微信号：Txyouxi</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
